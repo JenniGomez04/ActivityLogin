@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:JenniGomez04/Login_API.git
+[submodule "android"]
+	path = android
+	url = git@github.com:JenniGomez04/ConsumoLogin_Api.git
